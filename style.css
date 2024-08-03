@@ -1,0 +1,72 @@
+* {
+    font-family: "Roboto", sans-serif;
+
+}
+
+
+body {
+   background-color: #CAADE6;
+   
+}
+
+
+#fundo { 
+    background-color:#610588;
+    left: 20ran;
+    color: white;
+    padding: 0 0 0 100px;
+    
+}
+
+.movel1 {
+    padding:  0 0 0 100px;
+}
+
+
+#cor {
+    color: white;
+ }
+
+.movel2 {
+    padding: 0 0 0 100px;
+
+}
+
+
+h1 {
+    color: #610588;
+    text-align: center;
+}
+
+
+
+#fonte {
+    color:#610588;
+}
+
+#card {
+    border:#610588 ;
+}
+
+
+.center1 {
+    text-align: center;
+    color: white;
+}
+
+
+
+.center2 {
+    text-align: center;
+    background: mediumpurple;
+    padding: 10px;
+    color: white;
+}
+
+
+.logo {
+    background-color: #610588;
+
+}
+
+
